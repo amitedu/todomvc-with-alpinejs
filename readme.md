@@ -1,6 +1,6 @@
 # Framework Name • [TodoMVC](http://todomvc.com)
 
-*Let me [know](https://github.com/amitedu/alpineJS-essentials.git/issues) if you discover anything worth sharing.*
+*Let me [know](https://github.com/amitedu/todomvc-with-alpinejs.git/issues) if you discover anything worth sharing.*
 
 
 ## Implementation
